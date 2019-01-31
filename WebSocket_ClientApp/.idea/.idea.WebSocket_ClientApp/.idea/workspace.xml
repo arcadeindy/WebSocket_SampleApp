@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120d297a-00cf-43a2-93b2-146876749629" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebSocket_ClientApp/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebSocket_ServerApp/.idea/.idea.WebSocket_ServerApp/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebSocket_ServerApp/.idea/.idea.WebSocket_ServerApp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebSocket_ServerApp/.idea/.idea.WebSocket_ServerApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebSocket_ServerApp/.idea/.idea.WebSocket_ServerApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebSocket_ServerApp/.idea/.idea.WebSocket_ServerApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WebSocket_ServerApp/.idea/.idea.WebSocket_ServerApp/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebSocket_ServerApp/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../WebSocket_ServerApp/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSocket_ServerApp/.idea/.idea.WebSocket_ServerApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebSocket_ServerApp/.idea/.idea.WebSocket_ServerApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSocket_ServerApp/Assets/Scripts/ServerExample.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../WebSocket_ServerApp/Assets/Scripts/ServerExample.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +17,8 @@
       <file leaf-file-name="SendMessage.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SendMessage.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+            <state relative-caret-position="510">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <marker date="1548907435598" expanded="true" signature="6:92" ph="..." />
                 <marker date="1548907435598" expanded="true" signature="135:768" ph="{...}" />
@@ -68,9 +59,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="517" />
-    <option name="y" value="23" />
-    <option name="width" value="888" />
+    <option name="x" value="49" />
+    <option name="y" value="266" />
+    <option name="width" value="798" />
     <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -131,12 +122,12 @@
       <option name="presentableId" value="Default" />
       <updated>1548906693709</updated>
       <workItem from="1548906701615" duration="176000" />
-      <workItem from="1548907138874" duration="494000" />
+      <workItem from="1548907138874" duration="895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="670000" />
+    <option name="totallyTimeSpent" value="1071000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,7 +139,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="517" y="23" width="888" height="807" extended-state="0" />
+    <frame x="49" y="266" width="798" height="807" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -159,7 +150,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1643026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18386243" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -219,8 +210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SendMessage.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        <state relative-caret-position="510">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <marker date="1548907435598" expanded="true" signature="6:92" ph="..." />
             <marker date="1548907435598" expanded="true" signature="135:768" ph="{...}" />

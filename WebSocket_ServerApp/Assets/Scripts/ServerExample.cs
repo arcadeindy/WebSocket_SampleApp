@@ -16,6 +16,9 @@ public class ServerExample: MonoBehaviour {
 
     void Start ()
     {
+        /*
+         server自体の機能をカスタマイズしていく（下記のクラス内メソッドをoverrideしていく）
+        */
         server.AddWebSocketService<TestFunc>("/");
         server.Start();
 
@@ -35,7 +38,7 @@ public class TestFunc : WebSocketBehavior
     {
         Debug.Log ("opend");
     }
-    
+    //eには送信されたメッセージ内容がパックになって詰まってる
     protected override void OnMessage (MessageEventArgs e)
     {
         Debug.Log("Comming Message ! : " + e.Data);
